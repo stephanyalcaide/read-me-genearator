@@ -1,7 +1,7 @@
 # read-generator
     
 #### Table of Contents
-1. [Project escription](#project-description)
+1. [Project description](#project-description)
 2. [Installation Instructions](#installation-instructions)
 3. [Usage Information](#usage-information)
 4. [Contributor Guidelines](#contributor-guidelines)
